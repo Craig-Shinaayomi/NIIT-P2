@@ -1,0 +1,259 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+  }
+  
+  .container {
+    width: 100%
+  }
+  
+  .headercontainer {
+    width: 100%;
+  }
+
+  .headerlogo{
+    margin-bottom: 3rem;
+  }
+   
+header {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+  }
+  
+   ul {
+    display: flex;
+    gap: 2rem;
+  }
+   
+  li {
+    font-family: montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    cursor: pointer;
+  } 
+
+  .ment{
+    margin-bottom: 2rem;
+  }
+
+  .hero {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+     align-items: center;
+     margin-top: -5rem;
+  }
+  
+  .herotext {
+    margin-top: -12rem;
+    width: 30%;
+    margin-left: 8rem;
+  }
+
+   .heroimage {
+    width: 47%;
+    /* margin-top: -3rem; */
+  }
+  
+  .herotext h2 {
+    font-family: Montserrat;
+    color: #000;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 56px;
+  }
+
+  .herotext p {
+    font-family: Montserrat;
+      color: #7D7987;
+      font-size: 21px;
+      font-style: normal;
+      font-weight: 300;
+      line-height: 32px;
+  }
+
+
+  .herobtn button{
+    border-radius: 50px;
+    border: 1px solid #458ff6;
+    display: inline-flex;
+    padding: 11px 35px;
+    font-family: monteserrat;
+    align-items: center;
+    gap: 10px;
+    background: #458ff6;
+    /* color: #1bc768; */
+
+  }
+
+.herobtn{
+margin-top: 1rem;
+}
+
+
+.benefitflex{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  /* margin-top: 10rem; */
+  margin: auto;
+  padding-top: 10rem;
+} 
+
+   .line hr{
+    width: 10%;
+height: 2px;
+background: #000;
+margin-top: 1rem;
+   }
+
+
+
+.benefittext {
+  /* margin-top: -12rem; */
+  width: 30%;
+  /* margin-left: 5rem; */
+  margin-right: 10rem;
+}
+
+
+.benefitimage{
+width: 50%;
+/* margin-left: 5rem; */
+/* margin-top: -2rem; */
+}
+
+.benefittext h2{
+  font-family: monteserrat;
+  color: #000;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 155.556% */
+}
+
+.listflex p{
+  color: #333;
+  font-family: monteserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 2rem;
+}
+
+ .benefitBtn  button{
+  border-radius: 55px;
+  border: 1.4px solid #458FF6;
+  display: inline-flex;
+   padding: 11px 35px;
+  font-family: monteserrat;
+  align-items: center;
+  background: none;
+  color: #458FF6;
+  margin-top: 2rem;
+}
+
+.ele{
+float: right;
+
+}
+
+
+
+
+
+.benefitflex2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  margin-top: 10rem;
+} 
+
+   .line2 hr{
+    width: 10%;
+height: 2px;
+background: #000;
+margin-top: 1rem;
+   }
+
+
+
+.benefittext2 {
+
+  width: 30%;
+  margin-left: 11rem;
+}
+
+
+.benefitimage2 img{
+width: 100%;
+padding-left: 5rem;
+}
+
+.benefittext2 h2{
+  font-family: monteserrat;
+  color: #000;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px; /* 155.556% */
+  width: 70%;
+}
+
+.listflex2 p{
+  color: #333;
+  font-family: monteserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 2rem;
+}
+
+ .benefitBtn2  button{
+  border-radius: 55px;
+  border: 1.4px solid #458FF6;
+  display: inline-flex;
+   padding: 11px 35px;
+  font-family: monteserrat;
+  align-items: center;
+  background: none;
+  color: #458FF6;
+  margin-top: 2rem;
+}
+
+.Testimonials{
+margin-top: 10rem;
+
+}
+
+.testimage img{
+  margin-left: 10rem;
+}
+
+.article{
+  margin-top: 10rem;
+}
+
+.artimage{
+  margin-left: 10rem;
+}
+
+
+.ele2{
+  float: right;
+  margin-top: 6rem;
+  margin-right: 5rem;
+  }
+
